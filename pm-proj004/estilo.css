@@ -1,0 +1,48 @@
+li {
+    list-style: none;
+    margin-bottom: 3px;
+    padding: 100px 80px 100px 120px;
+    background-color: #27ae60;
+    background-image: url(Completo.png);
+    background-repeat: no-repeat;
+    background-position: 42px center;
+    
+}
+
+li.pendente {
+    background-color: #4a4a4a;
+    background-image: url('pendente.png');
+}
+    
+
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color:#fff;
+    display:block;
+    background-image: url('arrow.png');
+    background-repeat: no-repeat;
+    background-position: right center;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 2px;
+    font-size: 20px;
+    text-transform: uppercase;
+     -webkit-font-smoothing: antialiased; 
+
+}
+
+li:hover {
+    background-color: #52be7f;
+
+}
+
+li.pendente:hover {
+    background-color:#6e6e6e;
+    
+    
+}

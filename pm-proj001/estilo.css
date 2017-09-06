@@ -1,0 +1,42 @@
+vbody {
+    background: #ecf0f1;
+    font-family: Arial;
+    font-size: 18px;    
+    
+
+}
+
+h1 {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    font-family: sans-serif, arial;
+    height: 12px;
+    
+    
+}
+
+h2 {
+     display: flex;
+    align-content: center;
+    justify-content: center;
+    text-transform: uppercase;
+    color: grey;
+    font-family: sans-serif, arial;
+    font-size: 16px;
+     
+}
+
+li {
+    list-style: none;
+    font-family: 'Arial';
+    background-color: #9b59b6;    
+    opacity: ;
+    color: #ecf0f1;
+    padding: 12px;
+    font-size: 18px;
+    margin: 12px;
+    
+        
+        
+}
